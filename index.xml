@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Arpita Parmar</title>
+    <link>https://arpitaisan0maly.github.io/mydatascienceportfolio/</link>
+    <description>Recent content in Data Science Portfolio on Arpita Parmar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://arpitaisan0maly.github.io/mydatascienceportfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1: Geospatial Analysis: Climate Change </title>
+      <link>https://arpitaisan0maly.github.io/mydatascienceportfolio/post/project3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arpitaisan0maly.github.io/mydatascienceportfolio/post/project3/</guid>
+      <description>This projects aims to look at climate change by examining hurricane data from NOAA (National Oceanic and Atmospheric Administration) of Atlantic basin. It does Geospatial analysis using Python Library Folium to analyze hurricane tracks, landfalls and their impact over the years in the US region. Folium interactive maps used for this project show the heatmap effect over the years through sliders. This project can be used to understand the geographical impact of any factor such has hurricanes or a pandemic by analyzing latitude and longitude data.</description>
+    </item>
+    
+    <item>
+      <title>2: Anomaly Detection: Retail Fraud</title>
+      <link>https://arpitaisan0maly.github.io/mydatascienceportfolio/post/project8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arpitaisan0maly.github.io/mydatascienceportfolio/post/project8/</guid>
+      <description>Unsupervised clustering algorithm which segments retail transactions in groups based on similarity and also detects anomalous fraudulent transactions.
+Github:(https://github.com/ArpitaisAn0maly/Machine-Learning-AnomalyDetection)</description>
+    </item>
+    
+    <item>
+      <title>3: Classification:-Employee Attrition &amp; Retention</title>
+      <link>https://arpitaisan0maly.github.io/mydatascienceportfolio/post/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arpitaisan0maly.github.io/mydatascienceportfolio/post/project1/</guid>
+      <description>For this project,I used Python to build a supervised classification model. It predicts which employee will stay with the organization and which employee will leave the company. Used Spark to process employee data. The model estimates the probability of an employee leaving. The model also has a prescriptive solution where it shows the reasons behind employee attrition. Based on reasons and probability estimation, an organization can take appropriate action to avoid employee attrition.</description>
+    </item>
+    
+    <item>
+      <title>4: Forecasting</title>
+      <link>https://arpitaisan0maly.github.io/mydatascienceportfolio/post/project2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arpitaisan0maly.github.io/mydatascienceportfolio/post/project2/</guid>
+      <description>For this project, I used Facebook&amp;rsquo;s Prophet package which predicts passenger Seats availability based on historic trends. I also created a flavor of algorithm, where it predicts availability by different category in a loop. I added extra regressors for missing dates/data, so that the model is not under fitting. These same extra regressors can be used for other variables, so the same code can be used for multivariate analysis. Plotly interactive charts are used for all forecasts, so one can switch between different time periods in the same chart without having to create multiple forecasts for multiple time periods.</description>
+    </item>
+    
+    <item>
+      <title>5: NLP:Sentiment Analysis</title>
+      <link>https://arpitaisan0maly.github.io/mydatascienceportfolio/post/project5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arpitaisan0maly.github.io/mydatascienceportfolio/post/project5/</guid>
+      <description>This project uses NLP libraries to analyze sentiments and tags them as positive,negative, and neutral sentiments. Libraries used in this projects are TextBlob,nltk, word_tokenize,stopwords,wordcloud It uses NLTK libraries to tokenize the words and it also has word cloud to see what the most used words in a comment or conversation. Github :(https://github.com/ArpitaisAn0maly/SentimentAnalysis)</description>
+    </item>
+    
+    <item>
+      <title>6: TensorFlow: Deep Visualization</title>
+      <link>https://arpitaisan0maly.github.io/mydatascienceportfolio/post/project6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arpitaisan0maly.github.io/mydatascienceportfolio/post/project6/</guid>
+      <description>Inspired by paper https://arxiv.org/pdf/1506.06579.pdf. This project visualizes Neural Network Activation, Weights, and Gradients. It aims to understand and interpret neural networks and what goes behind network activation and other aspects. Github:(https://github.com/ArpitaisAn0maly/Vision_Deep_Learning_Visulisation)</description>
+    </item>
+    
+    <item>
+      <title>7: Covid19 analysis with case prediction</title>
+      <link>https://arpitaisan0maly.github.io/mydatascienceportfolio/post/project4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arpitaisan0maly.github.io/mydatascienceportfolio/post/project4/</guid>
+      <description>This project contains analysis of Covid-19 cases worldwide and in the US. It uses geospatial libraries to visualize data through interactive maps. I used the Logistic regression sigmoid model to predict cases in future. It is an end-to-end machine learning solution, which allows you to plan based on case prediction in particular region. Github:(https://github.com/ArpitaisAn0maly/Machine-Learning-Covid19)</description>
+    </item>
+    
+    <item>
+      <title>8: Deep Learning:Model Tracking &amp; Management</title>
+      <link>https://arpitaisan0maly.github.io/mydatascienceportfolio/post/project9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arpitaisan0maly.github.io/mydatascienceportfolio/post/project9/</guid>
+      <description>This project uses shell and open source utility called &amp;ldquo;DATMO&amp;rdquo; to track tensoeflow models. Datmo is an open source production model management tool for data scientists
+Github:(https://github.com/ArpitaisAn0maly/Vision-Deep-Learning-Model-Tracking)</description>
+    </item>
+    
+    <item>
+      <title>9: TensorFlow: Image classification</title>
+      <link>https://arpitaisan0maly.github.io/mydatascienceportfolio/post/project7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arpitaisan0maly.github.io/mydatascienceportfolio/post/project7/</guid>
+      <description>My exposure to vision AI and tensorflow is limited, but in this project I attempted to create a binary classifier for Image and image segmentation.
+Github:(https://github.com/ArpitaisAn0maly/Vision-Cnn_Segmentation)</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://arpitaisan0maly.github.io/mydatascienceportfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arpitaisan0maly.github.io/mydatascienceportfolio/about/</guid>
+      <description>I am a passionate data scientist with more than 15 years of experience in data analytics, data mining and predictive modeling. I have broad and in-depth experience in data architecture, data engineering, and machine learning. In my current role as Lead Enterprise Data Scientist, I lead data analytics projects at the enterprise level. I oversee activities to ensure proper execution of machine learning and other data analytics activities such as data governance, building data pipelines for data engineering as well as machine learning.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://arpitaisan0maly.github.io/mydatascienceportfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arpitaisan0maly.github.io/mydatascienceportfolio/contact/</guid>
+      <description> My Contact Information Email: parmarscientist@gmail.com Linkedin: www.linkedin.com/in/arpitaparmar GitHub: https://github.com/ArpitaisAn0maly/ </description>
+    </item>
+    
+  </channel>
+</rss>
